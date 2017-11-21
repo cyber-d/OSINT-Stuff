@@ -1,5 +1,4 @@
-# OSINT-Stuff
-
+# OSINT-Tools
 
 <li><a href="http://www.spokeo.com/" target="_blank" rel="noopener">Spokeo</a> –&nbsp;People search engine and free white pages finds phone, address, email, and photos. Find people by name, email, address, and phone for free.</li>
 <li><a href="http://code.google.com/p/theharvester/" target="_blank" rel="noopener">theHarvester </a>–&nbsp;This tool is intended to help Penetration testers in the early stages of the penetration test in order to understand the customer footprint on the Internet. It is also useful for anyone that wants to know what an attacker can see about their organization.</li>
